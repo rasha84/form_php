@@ -1,0 +1,34 @@
+#image{
+    background-image: url(image.jpg);
+    background-repeat: no-repeat;
+    background-size:950px 800px;
+    margin-left:230px;
+}
+#page{
+     background-color:#E6DBBD; 
+     border-radius: 10%;
+     width:480px;
+     height: 600px;
+     display:flex;
+     flex-direction: column;
+     justify-content: center;
+    margin-left:185px;
+     padding-left:100px; 
+     box-shadow: inset -3p -3px 10px #eee;
+   
+}
+.error{
+    color: #FF0000;
+}
+
+.inputText{
+    border-radius: 15%;
+}
+#button{
+    background-color:#EFB069;
+    color:white;
+    border-radius: 15%;
+    padding:10px 20px; 
+    width:200px;
+    padding-left:50px;
+}
